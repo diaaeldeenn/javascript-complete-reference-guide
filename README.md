@@ -22,7 +22,7 @@ A complete JavaScript & Bootstrap reference designed to take you from the fundam
 ![GitHub Repo stars](https://img.shields.io/github/stars/diaaeldeenn/javascript-complete-reference-guide?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/diaaeldeenn/javascript-complete-reference-guide?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/diaaeldeenn/javascript-complete-reference-guide?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-success?style=flat-square)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey?style=flat-square)
 
 </p>
 
@@ -291,9 +291,29 @@ If you'd like to improve this guide:
 
 # 📄 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.
 
-Feel free to use it for learning, teaching, and personal projects.
+## What Does This Mean?
+
+You are **free to**:
+- ✅ Share — copy and redistribute the material in any medium or format
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+**In simple terms:**
+- ✅ You can view, download, and share this guide freely
+- ✅ You must give credit to the author (Eng. Diaa Elseady)
+- ❌ You cannot use this guide for commercial purposes
+- ❌ You cannot modify or distribute modified versions
+
+For full license details, see the [LICENSE](./LICENSE) file.
+
+---
+
+**For commercial use or other permissions, please contact me directly.**
 
 ---
 
