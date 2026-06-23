@@ -18,12 +18,9 @@ A complete JavaScript & Bootstrap reference designed to take you from the fundam
 </p>
 
 <p align="center">
-
-![GitHub Repo stars](https://img.shields.io/github/stars/diaaeldeenn/javascript-complete-reference-guide?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/diaaeldeenn/javascript-complete-reference-guide?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/diaaeldeenn/javascript-complete-reference-guide?style=flat-square)
+  
 ![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey?style=flat-square)
-
+  
 </p>
 
 ---
