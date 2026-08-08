@@ -261,13 +261,10 @@ Whether you're learning JavaScript for the first time or preparing for technical
 
 # 📈 Roadmap
 
-- ✅ JavaScript Reference
-- ✅ Bootstrap Reference
-- 🚧 React Reference
-- 🚧 TypeScript Reference
-- 🚧 Next.js Reference
-- 🚧 Node.js Reference
-- 🚧 Express.js Reference
+- ✅ JavaScript & Bootstrap Reference
+- ✅ [React & Tailwind CSS Reference](https://github.com/diaaeldeenn/react-tailwind-complete-reference)
+- ✅ [Next.js & TypeScript Reference](https://github.com/diaaeldeenn/next-typescript-complete-reference)
+- 🚧 Node.js & Express.js Reference
 - 🚧 NestJS Reference
 - 🚧 MongoDB Reference
 
