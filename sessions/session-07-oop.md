@@ -58,7 +58,7 @@ A **Class** is just a container, a “plan on paper” that defines a set of pro
 > The image below shows this visually: the `Table` class is just a written plan describing what a table should have (`capacity`, `color`, `price`), and real, tangible table objects are created from that plan.
 > 
 
-![class.JPG](class.jpg)
+![class.jpg](https://raw.githubusercontent.com/diaaeldeenn/javascript-complete-reference-guide/main/assets/images/session-07/class.jpg)
 
 ```jsx
 class Table {
@@ -82,7 +82,7 @@ There’s no “plan on paper” step here. Instead, you start with an actual, a
 > The image below shows this visually: an actual table object already exists, and other objects (a smaller coffee table, a side table) are created directly from that original table object, inheriting its general shape and features.
 > 
 
-![prototype.JPG](prototype.jpg)
+![prototype.jpg](https://raw.githubusercontent.com/diaaeldeenn/javascript-complete-reference-guide/main/assets/images/session-07/prototype.jpg)
 
 ```jsx
 function Table(capacity, color, price) {
