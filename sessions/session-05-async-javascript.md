@@ -43,7 +43,7 @@ JavaScript by itself is just a language — it needs an **engine** to actually r
 > The diagram below shows the full flow visually.
 > 
 
-![JS V8 Engine.JPG](JS_V8_Engine.jpg)
+![JS_V8_Engine.jpg](https://raw.githubusercontent.com/diaaeldeenn/javascript-complete-reference-guide/main/assets/images/session-05/JS_V8_Engine.jpg)
 
 ---
 
@@ -243,7 +243,7 @@ When you need to chain multiple async operations — where each one depends on t
 > The image below shows what this looks like in real code — it forms a pyramid shape that gets wider and deeper with every level, making it nearly impossible to read, debug, or maintain.
 > 
 
-![1747521846876.png](1747521846876.png)
+![1747521846876.png](https://raw.githubusercontent.com/diaaeldeenn/javascript-complete-reference-guide/main/assets/images/session-05/1747521846876.png)
 
 ```jsx
 getUser(1, function (user) {
