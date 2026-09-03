@@ -1344,7 +1344,7 @@ This is why `package.json` is considered the real source of truth for a project�
 
 A closure happens when a function “remembers” the variables from the scope it was created in, even after that outer function has already finished running.
 
-![image.png](image.png)
+![image.png](https://raw.githubusercontent.com/diaaeldeenn/javascript-complete-reference-guide/main/assets/images/session-06/image.png)
 
 ```jsx
 function outer() {
