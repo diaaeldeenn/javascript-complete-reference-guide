@@ -285,7 +285,7 @@ An API is a bridge that allows different applications to communicate with each o
 
 ### How It Works
 
-![preview.webp](preview.webp)
+![API Preview](https://raw.githubusercontent.com/diaaeldeenn/javascript-complete-reference-guide/main/assets/images/session-04/preview.webp)
 
 Looking at the diagram: no matter what type of application you’re building — Web (HTML, CSS, JS), Android (Java), iOS (Swift), or Desktop (C++, JS) — they all need a way to talk to the same database. That’s exactly what the API does. The frontend sends data (like name, email, password) to the API, the API forwards it to the database, and the database sends back a response (like “Success” or “Registered”) that travels back through the API to the app.
 
